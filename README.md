@@ -129,13 +129,13 @@ The dashboard also provides:
 - Top and bottom countries based on average life expectancy
 - Country-level trend comparisons
 
-These visualizations allow users to identify geographic disparities in life expectancy. :contentReference[oaicite:1]{index=1}
+These visualizations allow users to identify geographic disparities in life expectancy.
 
 ---
 
 ## 📈 Correlation & Regression Analysis
 
-A correlation matrix was implemented to examine relationships between numerical health and socioeconomic indicators. :contentReference[oaicite:2]{index=2}
+A correlation matrix was implemented to examine relationships between numerical health and socioeconomic indicators. 
 
 Five linear regression analyses were developed to investigate the relationship between **Life Expectancy** and:
 
@@ -152,7 +152,7 @@ Each model provides an interactive scatter plot with:
 - Correlation coefficient
 - Interactive tooltips
 
-The dashboard also allows users to dynamically select the development status and predictor/response variables for regression analysis. :contentReference[oaicite:3]{index=3}
+The dashboard also allows users to dynamically select the development status and predictor/response variables for regression analysis. 
 
 ---
 
@@ -193,11 +193,6 @@ The interactive dashboard consists of several sections:
 - Interactive Correlation Matrix
 - Dynamic Linear Regression
 - Five Life Expectancy Regression Models
-
-### Conclusion
-- Summary of key analytical findings
-
-The dashboard structure and interactive components are implemented using **Shiny, Shinydashboard, Plotly, ggplot2, DT, and related R packages**. :contentReference[oaicite:4]{index=4}
 
 ---
 
